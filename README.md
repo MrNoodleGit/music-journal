@@ -170,7 +170,7 @@ Prereqs: Python 3.10+ recommended.
 
 - [x] Add project plan to README
 - [x] Scaffold Flask app with health check
-- [ ] Add API module structure and placeholder routers
+- [x] Add API module structure and placeholder routers
 - [ ] Choose DB (SQLite dev, Postgres prod) and wire SQLAlchemy + Alembic
 - [ ] Define schemas for Track, Tag, JournalEntry
 - [ ] Implement Tag CRUD
